@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      
+      {/* sd */}
       <section className={styles.hero}>
         <Image 
           src="/images/bg.jpg" 
