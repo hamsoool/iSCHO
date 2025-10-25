@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      {/* dicks */}
       <section className={styles.hero}>
         <Image 
           src="/images/bg.jpg" 
